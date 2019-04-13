@@ -1,6 +1,12 @@
 # Malaria_TB_Analysis
 An analysis of malaria and TB cases reported in some parts of Africa over the past 10 years. This will help us understand the trend of the two infectious diseases that affect majority of the population in the developing world.
 
+You will learn how to 
+1. Perform basic data cleaning tricks such as slicing, indexing, identifying NaNs in data
+2. Exploratory data analysis 
+3. Data visualization to understand the data points and trends
+
+
 ## Objectives of the data analysis
 1. To investigate if malaria and TB cases declined over time
 2. To analyse the trend of mortality and detection rates for TB
