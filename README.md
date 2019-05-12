@@ -8,9 +8,8 @@ You will learn how to
 
 
 ## Objectives of the data analysis
-1. To investigate if malaria and TB cases declined over time
-2. To analyse the trend of mortality and detection rates for TB
-3. To understand the success rate of treating TB over time
+1. TAnalyse the trend of malaria cases, TB mortality, sucess rate and detection rates since 2009
+2. Perform data cleaning and EDA 
 
 ## Sources of data
 Malaria cases reported were collected from World Health Organization, Global Health Observatory Data Repository/World Health Statistics (http://apps.who.int/ghodata/). WHO compiles data on reported cases of malaria, submitted by the national malaria control programmes (NMCPs).
